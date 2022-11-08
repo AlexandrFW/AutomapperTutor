@@ -19,7 +19,7 @@ public class SuperHeroController : Controller
             DateAdded = new DateTime(2001, 08, 10),
             DateModified = null
         },
-         new SuperHero
+        new SuperHero
         {
             Id = 2,
             Name = "Iron Man",
